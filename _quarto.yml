@@ -3,6 +3,7 @@ project:
 
 website:
   site-url: https://qiufei.site/mind
+  search: true
   # 设置网站图标
   favicon: profile.jpg
   # back-to-top-navigation: true
