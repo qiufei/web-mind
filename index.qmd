@@ -3,8 +3,8 @@ title: "感受：博客随笔"
 listing:
   contents: mind
   sort: "date desc"
-  type: default
-  #categories: true
+  type: grid
+  categories: false
   sort-ui: false
   filter-ui: false
 page-layout: full
