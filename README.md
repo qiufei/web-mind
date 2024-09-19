@@ -1,3 +1,1 @@
 # mind
-
-qiufei.site/mind
